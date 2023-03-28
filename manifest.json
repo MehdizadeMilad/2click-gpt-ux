@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "SimpliTech",
+  "version": "1.0",
+  "description": "Improve reading (chatGPT)",
+  "host_permissions": [
+    "https://api.openai.com/*"
+  ],
+  "icons": {
+    "16": "icon/icon_small.png",
+    "48": "icon/icon_medium.png",
+    "128": "icon/icon_large.png"
+  },
+  "background": {
+    "service_worker": "js/background.js",
+    "type": "module"
+  },
+  "permissions": [
+    "activeTab",
+    "contextMenus",
+    "notifications"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "js/content.js"
+      ],
+      "all_frames": true
+    }
+  ],
+  "action": {
+    "default_title": "Simplify text using ChatGPT 3.5",
+    "default_popup": "html/index.html"
+  }
+}
