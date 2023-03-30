@@ -20,6 +20,7 @@ function replaceSelectedText(newText) {
     if (selection.rangeCount > 0) {
         const range = selection.getRangeAt(0);
         const el = document.createElement('div');
+        el.id = 'replacedContent'
         el.innerHTML = newText;
         range.deleteContents();
         for (let i = el.childNodes.length - 1; i >= 0; i--) {
