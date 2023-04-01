@@ -1,10 +1,11 @@
 # BrowserBot
 
-This Chrome extension on GitHub allows users to interact with ChatGPT for processing selected text (TODO: images, or videos) on webpages. This powerful tool serves as a boilerplate with limitless functionalities limited only by your imagination. With features like simplify, elaborate, translate, opposite, define, and more, you can customize the extension to suit your specific needs. Try it out today and see how it can streamline your online interactions and boost your productivity!
+This Chrome extension on GitHub allows users to interact with ChatGPT for processing selected text, images, or videos on webpages. This powerful tool serves as a boilerplate with limitless functionalities limited only by your imagination. With features like simplify, elaborate, translate, opposite, define, and more, you can customize the extension to suit your specific needs. Try it out today and see how it can streamline your online interactions and boost your productivity!
 
 Todo:
 - create hello world example (module)
 - create translate to farsi (module, plug-in, add-on, جز)
+- add support gpt4 to process selected image and video
 
 
 ## Extension Manual Install
