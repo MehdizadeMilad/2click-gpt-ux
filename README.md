@@ -2,6 +2,11 @@
 
 This Chrome extension on GitHub allows users to interact with ChatGPT for processing selected text (TODO: images, or videos) on webpages. This powerful tool serves as a boilerplate with limitless functionalities limited only by your imagination. With features like simplify, elaborate, translate, opposite, define, and more, you can customize the extension to suit your specific needs. Try it out today and see how it can streamline your online interactions and boost your productivity!
 
+Todo:
+- create hello world example (module)
+- create translate to farsi (module, plug-in, add-on, جز)
+
+
 ## Extension Manual Install
 This guide will walk you through the steps for manually installing a Chrome extension. This is useful if you cannot find the extension on the Chrome Web Store or if you prefer not to install extensions through the store.
 
