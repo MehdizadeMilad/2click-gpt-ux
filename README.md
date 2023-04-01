@@ -1,10 +1,6 @@
 # 2click-gpt-ux
-Prompt chatgpt to process your selected words.
-Select some text on a web page and right click and select "GPT Command" : "elaborate on this"
-(For example) "GPT Command" : "Simplify".
 
-This browser extension lets you focus on building user experiences rather than the extension itself.
-
+This Chrome extension on GitHub allows users to interact with ChatGPT for processing selected text (TODO: images, or videos) on webpages. This powerful tool serves as a boilerplate with limitless functionalities limited only by your imagination. With features like simplify, elaborate, translate, opposite, define, and more, you can customize the extension to suit your specific needs. Try it out today and see how it can streamline your online interactions and boost your productivity!
 
 ## Extension Manual Install
 This guide will walk you through the steps for manually installing a Chrome extension. This is useful if you cannot find the extension on the Chrome Web Store or if you prefer not to install extensions through the store.
