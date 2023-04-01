@@ -1,4 +1,4 @@
-# 2click-gpt-ux
+# BrowserBot
 
 This Chrome extension on GitHub allows users to interact with ChatGPT for processing selected text (TODO: images, or videos) on webpages. This powerful tool serves as a boilerplate with limitless functionalities limited only by your imagination. With features like simplify, elaborate, translate, opposite, define, and more, you can customize the extension to suit your specific needs. Try it out today and see how it can streamline your online interactions and boost your productivity!
 
@@ -7,7 +7,7 @@ This guide will walk you through the steps for manually installing a Chrome exte
 
 ### Step 1:
 Clone this repository:
-'git clone --depth 1 https://github.com/MehdizadeMilad/2click-gpt-ux'
+'git clone --depth 1 https://github.com/MehdizadeMilad/BrowserBot'
 
 ### Step 2: Enable Developer Mode in Chrome
 In order to install a Chrome extension manually, you need to enable Developer Mode in Chrome. Here's how to do it:
