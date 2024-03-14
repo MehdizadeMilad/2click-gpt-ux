@@ -13,7 +13,7 @@ This guide will walk you through the steps for manually installing a Chrome exte
 
 ### Step 1:
 Clone this repository:
-'git clone --depth 1 https://github.com/MehdizadeMilad/BrowserBot'
+'git clone --depth 1 https://github.com/meow-jsx/BrowserBot'
 
 ### Step 2: Enable Developer Mode in Chrome
 In order to install a Chrome extension manually, you need to enable Developer Mode in Chrome. Here's how to do it:
@@ -30,3 +30,32 @@ The extension should now be installed and ready to use!
 
 ## p.s
 Manually installing a Chrome extension can be a bit more involved than installing through the Chrome Web Store, but it's still a straightforward process. By following the steps outlined in this guide, you should be able to install any Chrome extension you want, regardless of where you found it.
+
+## 🤝 Contributing
+
+Contributions are always welcome! Please follow these steps:
+1. Fork the project repository. This creates a copy of the project on your account that you can modify without affecting the original project.
+2. Clone the forked repository to your local machine using a Git client like Git or GitHub Desktop.
+3. Create a new branch with a descriptive name (e.g., `new-feature-branch` or `bugfix-issue-123`).
+```sh
+git checkout -b new-feature-branch
+```
+4. Make changes to the project's codebase.
+5. Commit your changes to your local branch with a clear commit message that explains the changes you've made.
+```sh
+git commit -m 'Implemented new feature.'
+```
+6. Push your changes to your forked repository on GitHub using the following command
+```sh
+git push origin new-feature-branch
+```
+7. Create a new pull request to the original project repository. In the pull request, describe the changes you've made and why they're necessary.
+The project maintainers will review your changes and provide feedback or merge them into the main branch.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE]([https://github.com/meow-jsx/BrowserBot/blob/main/LICENSE](https://github.com/meow-jsx/BrowserBot/blob/main/LICENSE)) file for details.
+
+---
