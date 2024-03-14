@@ -56,6 +56,6 @@ The project maintainers will review your changes and provide feedback or merge t
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE]([https://github.com/meow-jsx/BrowserBot/blob/main/LICENSE](https://github.com/meow-jsx/BrowserBot/blob/main/LICENSE)) file for details.
+This project is licensed under the GPL License - see the [LICENSE]([https://github.com/meow-jsx/BrowserBot/blob/main/LICENSE](https://github.com/meow-jsx/BrowserBot/blob/main/LICENSE)) file for details.
 
 ---
